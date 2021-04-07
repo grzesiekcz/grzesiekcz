@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grzesiekcz
+- 👋 Hi, I’m Gregory Czesławiak
 - 👀 I’m interested in app developing, memes, social-media and music
 - 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me - email
