@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gregory Czesławiak
 - 👀 I’m interested in app developing, memes, social-media and music
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning HTML/CSS and JavaScript
 - 📫 How to reach me - email
 
 <!---
